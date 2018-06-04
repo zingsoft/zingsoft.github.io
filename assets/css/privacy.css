@@ -15,12 +15,15 @@
 		margin-right: 5em;
 	}
 
-	#privacy h1 {
-		
-	}
-
 	#privacy p {
 		/*font-weight: 600;*/
 		font-size: 0.8em;
 		/*letter-spacing: 10px;*/
+	}
+
+	#privfooter {
+		color: #fff;
+		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
+		text-align: center;
+		margin: 4.5em 0 0 0;
 	}
